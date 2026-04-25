@@ -40,7 +40,7 @@ Output:
 4. Paste your snippet
 5. Copy the generated keyphrases into Kindroid
 
-(Optional)
+[STILL UNDER DEVELOPMENT - USE AT OWN RISK]
 - Add your API key + AI ID in the script to auto-push entries
 
 ---
