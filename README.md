@@ -1,3 +1,10 @@
+## Requirements
+
+- Python 3.x
+- requests library
+
+Install requests with:
+pip install requests
 
 # Kindroid Keyphrase Helper (RainOS Demo)
 
