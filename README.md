@@ -12,6 +12,8 @@ This is a small local script that converts normal messages into natural keyphras
 
 The goal is to reduce manual effort when creating journal entries and make recall feel more natural.
 
+This tool does not store memory — it generates natural-language recall triggers that improve how Kindroid retrieves existing journal entries.
+
 IMPORTANT DEMO STATUS UPDATE
 
 This is an early demo version focused on keyphrase generation.
