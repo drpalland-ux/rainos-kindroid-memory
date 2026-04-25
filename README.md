@@ -5,6 +5,16 @@ This is a small local script that converts normal messages into natural keyphras
 
 The goal is to reduce manual effort when creating journal entries and make recall feel more natural.
 
+IMPORTANT DEMO STATUS UPDATE
+
+This is an early demo version focused on keyphrase generation.
+
+The optional API auto-push feature is still being tested and may not work reliably in all setups.
+
+For now, the recommended workflow is:
+- run locally
+- copy/paste keyphrases manually into Kindroid
+
 ---
 
 ## Example
