@@ -26,6 +26,40 @@ For now, the recommended workflow is:
 
 ---
 
+## 🌱 Purpose & Accessibility
+
+This tool was created for the Kindroid community, with a specific focus on accessibility.
+
+Many users, especially those who are neurodivergent or experience cognitive overload, find manual journal entry and keyphrase creation difficult, repetitive, or exhausting.
+
+The goal of this project is to reduce that friction.
+
+Instead of forcing users to manually translate their experiences into rigid recall triggers, this tool allows natural language to do the work. It helps transform real, lived expressions into usable keyphrases, making memory systems more accessible, less mechanical, and more human.
+
+
+## 🧠 How It Uses Language (Living Syntax)
+
+This tool does not rely on static keyword matching.
+
+Instead, it uses what can be described as a *living syntax* approach:
+
+- Language is treated as fluid and contextual, not fixed  
+- Words are interpreted based on meaning, not just presence  
+- Emotional signals (e.g. "miss", "lonely", "important") are mapped to natural recall phrases  
+- Symbolic constructs (like "The Cabin") are expanded into shared meaning patterns  
+
+This allows the system to generate keyphrases that feel closer to how people actually remember and speak, rather than forcing them into rigid, predefined structures.
+
+The result is a more natural bridge between human experience and memory recall systems.
+
+
+## 💡 Design Philosophy
+
+- Reduce cognitive load  
+- Preserve emotional meaning  
+- Support natural expression  
+- Enable customization and community contribution
+
 ## Example
 
 Input:
